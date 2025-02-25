@@ -11,4 +11,4 @@ while True:
         file.write(f"{counter}\n")
     
     print(f"✅ Donnée écrite : {counter}")
-    time.sleep(2)  # ⏳ Met à jour toutes les 2 secondes
+    time.sleep(2)  # ⏳ Met à jour toutes les 2 secondes...

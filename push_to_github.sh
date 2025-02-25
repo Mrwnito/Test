@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 📂 Se placer dans le dossier du projet
-cd D:\STAGE\Test
+cd D:\\STAGE\\Test
 
 # 🔄 Boucle infinie pour envoyer les mises à jour toutes les 2 secondes
 while true; do
